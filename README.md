@@ -19,7 +19,7 @@ An audiophile-grade Android music player focused on **bit-perfect USB DAC playba
 ### Library
 - Local folders via SAF (Android 11+ Scoped Storage compatible).
 - Remote sources: **SMB**, **FTP**, **WebDAV** with incremental scan.
-- **CUE sheet** support for single-file albums (FLAC / APE / WAV / DSF).
+- **CUE sheet** support for single-file albums (FLAC / APE / WAV).
 - **Auto-scan** with visible progress (listing / probing phases).
 - Album-artwork extraction with dynamic Palette-driven detail pages.
 
@@ -28,7 +28,7 @@ An audiophile-grade Android music player focused on **bit-perfect USB DAC playba
 - In-app feedback and log collection to support.
 
 ### Formats
-Lossless: FLAC, ALAC, APE, WavPack, WAV, AIFF, DSF.
+Lossless: FLAC, ALAC, APE, WavPack, WAV, AIFF.
 Lossy: MP3, AAC, Ogg Vorbis, Opus.
 
 ## Project status
